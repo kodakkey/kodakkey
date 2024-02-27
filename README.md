@@ -12,4 +12,4 @@
 
 ⚡ Fun fact: Our curiosity knows no bounds, and we're always ready to push the limits of imagination!
 
-[![Contact us](https://img.shields.io/badge/Contact%20us-%20-blue)](https://forms.gle/n6dG8MmBph7mQzdc9)
+[![Upload Resume ](https://img.shields.io/badge/Contact%20us-%20-blue)](https://forms.gle/n6dG8MmBph7mQzdc9)
